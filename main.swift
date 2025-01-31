@@ -5,7 +5,7 @@ import UIKit
 // Task1
 print(minSplit(amount: 9))
 print(minSplit(amount: 26))
-print(minSplit(amount: 172)
+print(minSplit(amount: 172))
       
 // Task2
 print(sumOfDigits(start: 7, end: 8))
