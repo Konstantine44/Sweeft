@@ -1,7 +1,5 @@
 
 
-import UIKit
-
 // Task1
 print(minSplit(amount: 9))
 print(minSplit(amount: 26))
